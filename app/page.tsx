@@ -4,7 +4,6 @@ import ticketYellow from "@/public/yellow-ticket_bokooz.svg";
 import ticketBlue from "@/public/blue-ticket_zqy1z2.svg";
 import ticketGreen from "@/public/green-ticket_d973oo.svg";
 import Image from "next/image";
-import { Badge } from "@/components/ui/badge";
 import Link from "next/link";
 
 export default function Home() {
